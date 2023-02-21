@@ -44,7 +44,6 @@ const Container = () => {
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/baeharam/Pathfinding-Visualizer/master/images/visualizer.gif"
         />
       </Helmet>
       <header className="header">
