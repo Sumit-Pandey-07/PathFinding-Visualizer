@@ -1,6 +1,5 @@
 # Pathfinding Visualizer
 
-### [LIVE DEMO](https://baeharam.github.io/Pathfinding-Visualizer/)
 
 <img src="./images/visualizer.gif">
 
