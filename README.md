@@ -1,5 +1,4 @@
 # Pathfinding Visualizer
-<img src="./images/visualizer.gif">
 <br>
 
 ## Algorithms
@@ -31,6 +30,3 @@ yarn start
 
 <br>
 
-## LICENSE
-
-[MIT]('./LICENSE.md')
