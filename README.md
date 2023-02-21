@@ -1,8 +1,5 @@
 # Pathfinding Visualizer
-
-
 <img src="./images/visualizer.gif">
-
 <br>
 
 ## Algorithms
