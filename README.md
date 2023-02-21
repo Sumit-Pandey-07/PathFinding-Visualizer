@@ -23,7 +23,7 @@
 ## Build Guide
 
 ```bash
-git clone https://github.com/baeharam/Pathfinding-Visualizer
+https://github.com/Sumit-Pandey-07/PathFinding-Visualizer.git
 cd Pathfinding-Visualizer
 yarn install
 yarn start
